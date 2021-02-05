@@ -44,3 +44,17 @@ print("\ntype()") #to check data type
 print(type(4))
 print(type(4.9))
 print(type("hi"))
+
+#We use bool() method.
+print("\b bool()")
+print("True conditions")
+print(bool(1))
+
+print("\nFalse Conditions")
+print(bool(False))
+print(bool(0))
+print(bool())
+print(bool(None))
+
+x = None
+print("Type of None type", type(x))
