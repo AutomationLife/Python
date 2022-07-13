@@ -8,7 +8,7 @@ print("Nested list", data[3][0])
 data[2] = "two"
 print('new list : ', data)
 
-print("delete a value from list")
+print("\ndelete a value from list")
 del data[2]
 print('new list : ', data)
 

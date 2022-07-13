@@ -1,9 +1,9 @@
 print("comparision operators")
-print("\nEqual == ")
+print("\n Equal == ")
 print(1 == 1)
 print(1 == 2)
 
-print("Not Equal !=")
+print("\n Not Equal !=")
 print(1 != 1)
 print(1 != 2)
 

@@ -28,11 +28,17 @@ print("\nrange function")
 for num in range(6):
     print("Loop", num)
 
+print("\n")
+
 for num in range(1,6): # (start, end) , start < end
     print("Loop", num)
 
+print("\n")
+
 for num in range(6,1,-2): # (start, end, step) 
     print("Loop", num)
+
+print("\n")
 
 x = 1
 for num in range(x,6):

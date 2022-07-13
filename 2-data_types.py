@@ -18,7 +18,7 @@ print(1.0)
 print(1.)
 
 #Exponential
-print("\nExponential") # Outpus float
+print("\nExponential") # Output float
 print(4E2)
 print(4e2) #value after E/e should be integer
 print(4.2E2) #base can be int or float

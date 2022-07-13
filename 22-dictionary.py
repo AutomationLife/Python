@@ -1,5 +1,5 @@
 print("dictionary {key:value}")
-print('{"hello":"hola", "page":112')
+print('{"hello":"hola", "page":112}')
 #Key should be unique
 #can be any data-type except list
 #Its one way, meant can search only using key but not by values
